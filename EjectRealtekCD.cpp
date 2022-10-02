@@ -24,7 +24,7 @@
 
 using namespace std;
 
-constexpr wchar_t StartDrive = L'F';
+constexpr wchar_t StartDrive = L'D';
 constexpr wchar_t EndDrive = L'Z';
 constexpr wchar_t const* TargetLabel = L"Realtek";
 constexpr char const* TestTargetHost = "bspfp.pe.kr";
